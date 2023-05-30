@@ -10,7 +10,7 @@ Queuing is the most frequently encountered problems in everyday life. For exampl
 
 ![image](1.png)
 
-This is a queuing model in which the arrival is Markovian and departure distribution is also Marovian,number of server is one and size of the queue is also Markovian, no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
+This is a queuing model in which the arrival is Markovian and departure distribution is also Markovian,number of server is one and size of the queue is also Markovian, no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
 ## PROCEDURE:
 ![image](2.png)
